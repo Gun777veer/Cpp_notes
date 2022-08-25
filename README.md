@@ -1,2 +1,2 @@
-# Cpp_notes
+# cpp_notes
 C++ notes in order of date I have studied a topic.
